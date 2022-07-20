@@ -1,2 +1,2 @@
 # ScreenSaverSet
-Simple App to prevent Screen Saver from starting in environments where that options is locekd.
+Simple App to prevent Screen Saver from starting in environments where that option is locekd.
